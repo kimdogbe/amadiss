@@ -1,0 +1,16 @@
+{
+"companyName": "AmaProductions",
+"productName": "Liminal world for webgl",
+"productVersion": "1.0",
+"dataUrl": "LaminalURLVidBuild.data.unityweb",
+"wasmCodeUrl": "LaminalURLVidBuild.wasm.code.unityweb",
+"wasmFrameworkUrl": "LaminalURLVidBuild.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.20f1"
+}
